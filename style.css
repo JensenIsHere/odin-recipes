@@ -1,0 +1,23 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #d40404;
+  font-size: 80px;
+}
+
+h2 {
+  color: black;
+  font-size: 48px;
+}
+
+ul {
+  font-size: 40px;
+}
+
+img {
+  width: 400px;
+  height: 267px;
+
+}
